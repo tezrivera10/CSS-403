@@ -5,4 +5,30 @@
  */
 body {
   padding-top: 56px;
+    background-color: greenyellow
+}
+
+nav.bg-dark{ 
+    background-color: darkgoldenrod !important;
+}
+
+li a.active{
+    color: green!important;
+    
+}
+
+a.list-group-item{
+    font-weight: 500;
+    
+}
+a.list-group-item.active{
+    font-weight: 800;
+    background-color: aqua;
+    color:black;
+    
+}
+.store-logo{
+    heiguht: 200px;
+    width: 100%;
+    margin-top: 40px;
 }
