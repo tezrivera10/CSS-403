@@ -5,7 +5,7 @@
  */
 body {
   padding-top: 56px;
-    background-color: greenyellow
+    background-color: #ebc58b
 }
 
 nav.bg-dark{ 
@@ -13,7 +13,7 @@ nav.bg-dark{
 }
 
 li a.active{
-    color: green!important;
+    color: #ebc58b !important;
     
 }
 
@@ -28,7 +28,15 @@ a.list-group-item.active{
     
 }
 .store-logo{
-    heiguht: 200px;
+    height: 200px;
     width: 100%;
     margin-top: 40px;
+}
+
+.vermont-socks{
+    height:200px;
+    width:140px;
+    margin-top:11px;
+    
+    
 }
