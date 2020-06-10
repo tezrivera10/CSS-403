@@ -23,20 +23,24 @@ a.list-group-item{
 }
 a.list-group-item.active{
     font-weight: 800;
-    background-color: aqua;
+    background-color: #ffd855;
     color:black;
     
 }
 .store-logo{
     height: 200px;
     width: 100%;
-    margin-top: 40px;
+    margin-top: 0px;
+    color:#ebc58b;
+    opacity: 0.;
 }
-
 .vermont-socks{
     height:200px;
     width:140px;
     margin-top:11px;
-    
-    
+    }
+a.list-group-item{
+    background: darkgoldenrod;
+    color: black;
+    font-family: serif;
 }
